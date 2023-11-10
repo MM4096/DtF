@@ -1,1 +1,4 @@
 0.1.2
+
+Patch Notes:
+Added settings! These can be accessed through the pause menu, or on the menu screen!
