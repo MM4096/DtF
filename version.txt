@@ -1,5 +1,13 @@
-0.1.2
+0.1.3
 
 Patch Notes:
-Added settings! These can be accessed through the pause menu, or on the menu screen!
-Particles have been isolated to a singular object
+Replaced the old collectable system with... medals!
+Fixed a few bugs
+
+Medals:
+Earn medals by beating levels quickly!
+Medals are split into bronze, silver and gold.
+Three hundred points are required for a gold medal, requiring full points for time, collected collectables, and deaths.
+A new save is required.
+
+Happy Hunting!
