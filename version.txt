@@ -1,24 +1,5 @@
-0.2.1
+0.2.2
 
-Major update 0.2
 Patch Notes:
-Replaced the old collectable system with... medals!
-Fixed a few bugs
-
-Medals:
-Earn medals by beating levels quickly!
-Medals are split into bronze, silver and gold.
-Three hundred points are required for a gold medal, requiring full points for time, collected collectables, and deaths.
-A new save is required.
-
-Happy Hunting!
-
-
-Patch 0.2.1
-Patch Notes:
-- Fixed a bug causing the loss of collectables when re-entering
-- Fixed camera not being locked in River-Last
-- Also fixed camera not zooming in said level
-- Adjusted times for specific levels according to clear times
-- Added skip button to finished screen
-- Added a quit button on main menu
+Final patch notes in the launcher!
+Patch notes are being moved in-game!
