@@ -1,5 +1,3 @@
-0.2.2
+0.2.3
 
-Patch Notes:
-Final patch notes in the launcher!
-Patch notes are being moved in-game!
+No Patch notes
